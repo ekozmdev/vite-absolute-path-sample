@@ -1,5 +1,7 @@
+import { callHello } from "@/services/feature1/feature1Service";
+
 const Test = () => {
-  return <p>こんにちは</p>;
+  return <p>{callHello()}</p>;
 };
 
 export default Test;
