@@ -1,0 +1,1 @@
+# vite-absolute-path-sample
